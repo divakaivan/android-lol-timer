@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">LoL Timer</string>
     <string name="top_lane_timer">TextView</string>
-    <string name="flash_ready">Top flash ready</string>
+    <string name="top_flash_ready">Top flash ready</string>
+    <string name="jungle_flash_ready">Jungle flash ready</string>
+    <string name="mid_flash_ready">Mid flash ready</string>
+    <string name="bot_flash_ready">Bot flash ready</string>
+    <string name="sup_flash_ready">Support flash ready</string>
     <string name="top_lane">Top Lane</string>
 </resources>
